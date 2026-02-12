@@ -37,7 +37,8 @@ st.markdown("""
     }
     .sub-header {
         text-align: center;
-        color: #666;
+        color: var(--text-color);
+        opacity: 0.7;
         margin-bottom: 2rem;
     }
     .stChatMessage {
