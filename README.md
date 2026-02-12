@@ -1,5 +1,7 @@
 # 📊 MarketMind — AI Market Analyst
 
+🚀 **Live App:** https://ai-marketmind.streamlit.app/
+
 MarketMind is an AI-powered financial analysis assistant that delivers real-time stock insights, company deep-dives, sector analysis, and comparative evaluations across US and Indian markets.
 
 Built using **Agno Framework + Claude AI + YFinance + Streamlit**, MarketMind combines live market data with intelligent AI-driven analysis to generate structured, data-backed financial insights.
